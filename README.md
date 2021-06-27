@@ -45,36 +45,37 @@ cd /your/project/path
       ```
    4. Then save your package.json file
 
-3. Generate the secret key
+3. **Generate the secret key**
 
-**Generate with default settings**
-15 digits length and consist of A-Z, a-z, 0-9 without I, O alphabets
+   - *Generate with default settings:*
 
+     15 digits length and consist of A-Z, a-z, 0-9 without I, O alphabets
 
-Automatically added to your VUE_APP_SECRET_KEY variable in your .env file
+     Automatically added to your VUE_APP_SECRET_KEY variable in your .env file
 
-```bash
-generate-key
-```
+     ```bash
+     generate-key
+     ```
 
-**Generate with your own settings**
-Example:
+   - *Generate with your own settings:*
 
-```bash
-generate-key -- --length 20 --chars "abcdefg12345" --variable-name "YOUR_CUSTOM_VARIABLE_NAME"
-```
+     Example:
 
-**Use in other file**
-If you want to use the new secret key outside the .env file
+     ```bash
+     generate-key -- --length 20 --chars "abcdefg12345" --variable-name "YOUR_CUSTOM_VARIABLE_NAME"
+     ```
 
+     - *Use in other file:*
 
-You can pass the "-m" or "--manual" flag in the command
+     If you want to use the new secret key outside the .env file
 
-```bash
-generate-key -- --manual
-```
+     You can pass the "-m" or "--manual" flag in the command
 
-Then copy and paste the key wherever you want
+     ```bash
+     generate-key -- --manual
+     ```
+
+     Then copy and paste the key wherever you want
 
 #### Show help information
 
