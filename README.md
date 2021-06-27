@@ -49,7 +49,8 @@ cd /your/project/path
 
 **Generate with default settings**
 15 digits length and consist of A-Z, a-z, 0-9 without I, O alphabets
-<br>
+
+
 Automatically added to your VUE_APP_SECRET_KEY variable in your .env file
 
 ```bash
@@ -65,7 +66,8 @@ generate-key -- --length 20 --chars "abcdefg12345" --variable-name "YOUR_CUSTOM_
 
 **Use in other file**
 If you want to use the new secret key outside the .env file
-<br>
+
+
 You can pass the "-m" or "--manual" flag in the command
 
 ```bash
