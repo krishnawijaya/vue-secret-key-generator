@@ -41,6 +41,6 @@ generate --help
 ```
 
 ## Check my profile
-*Instagram:* [See krishnawijayaaa on Instagram](http://instagram.com/krishnawijayaaa) 
-*GitHub:* [See krishnawijaya on GitHub](http://github.com/krishnawijaya) 
-*NPM:* [See krishnawijaya on NPM](http://npm.com/krishnawijaya) 
+*[See on Instagram](https://instagram.com/krishnawijayaaa) 
+*[See on GitHub](https://github.com/krishnawijaya) 
+*[See on NPM](https://www.npmjs.com/~krishnawijaya) 
