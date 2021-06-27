@@ -31,7 +31,6 @@ function setKey(
 ) {
   const fullpath = c.path.join(process.cwd(), options.filepath);
 
-  // TODO: CHANGE SYNC
   const isExists = (fullpath) => {
     return new Promise((resolve) => {
       c.fs.access(fullpath, c.fs.constants.F_OK, (error) => {
@@ -40,7 +39,6 @@ function setKey(
       });
     });
   };
-  console.log(isExists);
 
   const keyPair = `${options.variable}=${key}`;
 
