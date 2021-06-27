@@ -1,0 +1,29 @@
+{
+  "name": "vue-secret-key-generator",
+  "version": "1.0.0",
+  "description": "Command line secret key generator for env variable in VueJS projects",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key",
+    "generator",
+    "secret",
+    "key",
+    "generator",
+    "vue",
+    "vuejs",
+    "random",
+    "string",
+    "generator"
+  ],
+  "author": "Krishna Wijaya",
+  "license": "ISC",
+  "bin": {
+    "generate": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
