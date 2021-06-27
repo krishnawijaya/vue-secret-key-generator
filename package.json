@@ -4,7 +4,7 @@
   "description": "Command line secret key generator for env variable in VueJS projects",
   "main": "bin/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "help": "generate --help"
   },
   "keywords": [
     "key",

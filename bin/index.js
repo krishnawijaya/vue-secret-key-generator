@@ -28,4 +28,4 @@ function generate(length, characters) {
   return result;
 }
 
-console.log(generate(options.length, options.chars));
+console.log("Secret key: " + generate(options.length, options.chars));
