@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci82OGQ1ZTNkYzM0MDBmMDJjMzEzM2YxMGIzNzJjZDgyZD9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.9_ixXXcDcVwZrjGcx9FFPT-63kMdwRTAgS7F7ldRtVg">
+  <img width="250" src="https://scontent-sin6-4.cdninstagram.com/v/t51.2885-19/s150x150/160421768_505210180873803_1957084962041306773_n.jpg?tp=1&_nc_ht=scontent-sin6-4.cdninstagram.com&_nc_cat=103&_nc_ohc=YNmaNrMwuI8AX8FyEEc&edm=ABfd0MgBAAAA&ccb=7-4&oh=7574ceb3b0b61f432e6e2a44d283473a&oe=60E00D82&_nc_sid=7bff83">
 </p>
 <h1 align="center"> Vue Secret Key Generator </h1>
 <p align="center">
@@ -41,6 +41,6 @@ generate --help
 ```
 
 ## Check my profile
-*[See on Instagram](https://instagram.com/krishnawijayaaa) 
-*[See on GitHub](https://github.com/krishnawijaya) 
-*[See on NPM](https://www.npmjs.com/~krishnawijaya) 
+* [See on Instagram](https://instagram.com/krishnawijayaaa) 
+* [See on GitHub](https://github.com/krishnawijaya) 
+* [See on NPM](https://www.npmjs.com/~krishnawijaya) 
