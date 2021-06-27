@@ -1,6 +1,6 @@
 {
   "name": "@krishnawijaya/vue-secret-key-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Command line secret key generator for env variable in VueJS projects",
   "main": "bin/index.js",
   "scripts": {
