@@ -67,15 +67,15 @@ cd /your/project/path
 
    - *Use in other file:*
 
-   If you want to use the new secret key outside the .env file
+     If you want to use the new secret key outside the .env file
 
-   You can pass the "-m" or "--manual" flag in the command
+     You can pass the "-m" or "--manual" flag in the command
 
-   ```bash
-   generate-key -- --manual
-   ```
+     ```bash
+     generate-key -- --manual
+     ```
 
-   Then copy and paste the key wherever you want
+     Then copy and paste the key wherever you want
 
 #### Show help information
 
