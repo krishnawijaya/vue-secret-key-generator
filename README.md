@@ -47,7 +47,7 @@ cd /your/project/path
 
 3. **Generate the secret key**
 
-   - *Generate with default settings:*
+   - _Generate with default settings:_
 
      15 digits length and consist of A-Z, a-z, 0-9 without I, O alphabets
 
@@ -57,15 +57,15 @@ cd /your/project/path
      generate-key
      ```
 
-   - *Generate with your own settings:*
+   - _Generate with your own settings:_
 
      Example:
 
      ```bash
-     generate-key -- --length 20 --chars "abcdefg12345" --variable-name "YOUR_CUSTOM_VARIABLE_NAME"
+     generate-key -- --length 20 --chars "abcdefg12345" --variable "YOUR_CUSTOM_VARIABLE_NAME" --filepath "/your/custom/path"
      ```
 
-   - *Use in other file:*
+   - _Use in other file:_
 
      If you want to use the new secret key outside the .env file
 
